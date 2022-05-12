@@ -1,5 +1,5 @@
 # Sandbox: A Pseudo Physics Simulation
-This engine uses a grid based approach to simulate a pseudo physics sandbox. The gamestate consists of a 2D grid spanning the entire game window 
+This engine uses a grid based approach to simulate a pseudo physics sandbox. The game state consists of a 2D grid spanning the entire game window 
 and all entities that are currently within the window.
 
 ## Pseudo Physics Engine
