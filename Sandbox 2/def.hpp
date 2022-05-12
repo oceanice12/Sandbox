@@ -1,0 +1,9 @@
+#pragma once
+
+#define SCREEN_WIDTH 640
+#define SCREEN_HEIGHT 480
+
+#define BLOCK_SIZE 5
+
+#define GRID_WIDTH (SCREEN_WIDTH / BLOCK_SIZE)
+#define GRID_HEIGHT (SCREEN_HEIGHT / BLOCK_SIZE)
