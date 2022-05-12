@@ -10,8 +10,8 @@ i.e., a falling block will check the immediate space below to determine it's nex
 ## Entities
 There are three (3) different entities available in the simulation each with their own rules.
 ### Sand
-Has gravity. Forms a pyramid shape with other sand. Sinks in water.
+Has gravity. Forms a pyramid shape with other sand entities. Sinks in water.
 ### Stone
 Stationary.
 ### Water
-Has gravity. Forms a pool shape with other water.
+Has gravity. Forms a pool shape with other water entities.
